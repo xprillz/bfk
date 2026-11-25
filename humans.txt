@@ -1,0 +1,8 @@
+/* TEAM */
+Company: Bonumfinanz AG
+Contact: info@bonum-finanz.com
+Location: Lugano, Schweiz
+
+/* SITE */
+Language: Deutsch (de-CH)
+Standards: HTML5, CSS3

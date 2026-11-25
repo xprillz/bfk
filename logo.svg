@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 88" width="340" height="88" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">BonumFinanz AG – Vermögen mit Weitblick. Werte mit Bestand.</title>
+  <defs>
+    <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22504A"/>
+      <stop offset="1" stop-color="#14302B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D4C4A8"/>
+      <stop offset="1" stop-color="#B08D57"/>
+    </linearGradient>
+  </defs>
+
+  <!-- BF monogram on shield -->
+  <g transform="translate(4 4)">
+    <path d="M40 2 74 12v26c0 20-14 33-34 42C20 71 6 58 6 38V12Z" fill="url(#shield)"/>
+    <path d="M40 2 74 12v26c0 20-14 33-34 42C20 71 6 58 6 38V12Z" fill="none" stroke="#B08D57" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M40 9 68 17v21c0 16-11 27-28 35C23 65 12 54 12 38V17Z" fill="none" stroke="#B08D57" stroke-opacity=".35" stroke-width=".8"/>
+    <text x="40" y="49" text-anchor="middle" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" letter-spacing="-1.5" fill="url(#gold)">BF</text>
+    <path d="M27 56h26" stroke="#B08D57" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="98" y="48" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="38" fill="#1A3D36">Bonum<tspan fill="#B08D57">Finanz</tspan></text>
+  <path d="M99 59h226" stroke="#B08D57" stroke-opacity=".55" stroke-width=".8"/>
+  <text x="99" y="76" font-family="'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="3.2" fill="#5C7A72">PRIVATE WEALTH · LUGANO</text>
+</svg>

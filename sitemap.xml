@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://bonum-finanz.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://bonum-finanz.com/ueber-uns.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonum-finanz.com/leistungen.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://bonum-finanz.com/zielgruppen.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonum-finanz.com/festgeld.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://bonum-finanz.com/prozess.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonum-finanz.com/faq.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bonum-finanz.com/kontakt.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bonum-finanz.com/impressum.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bonum-finanz.com/datenschutz.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bonum-finanz.com/compliance.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bonum-finanz.com/risikohinweis.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bonum-finanz.com/haftungsausschluss.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://bonum-finanz.com/cookie-richtlinie.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>
